@@ -8,7 +8,7 @@ import (
 	"strconv"
 	"strings"
 
-	"btctapscript/opcodes"
+	"github.com/QuentinFAIDIDE/btctapscript/opcodes"
 )
 
 // WitnessAnnexPrefixByte is the prefix in the witness array of the
