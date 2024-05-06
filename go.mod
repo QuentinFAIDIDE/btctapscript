@@ -1,4 +1,4 @@
-module btctapscript
+module github.com/QuentinFAIDIDE/btctapscript
 
 go 1.22.2
 
